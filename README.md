@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @GarrettMould
-- 👀 I’m a front-end develop living in Vietnam. I am interested in creating front-end applications with React and designing wesbites for local businesses in Hanoi. I enjoy using my free time to create projects that combine my interests in programming, music, and sports. 
+- 👀 I’m a front-end develop living in Vietnam. I am interested in creating front-end applications with React and TypeScipt, and designing wesbites for local businesses in Hanoi. I enjoy using my free time to create projects that combine my interests in programming, music, and sports. 
 - 🔭 Take a look through my profile to see what I have created 
 - Languages: JavaScript, TypeScript
 - Libraries: React JS 
-- Other: HTML, CSS, SCSS
-- 🌱 I’m currently learning Node.js and continuing to hone my front-end development skills with React
 - 📫 How to reach me: garrettmould@gmail.com
 
 <!---
